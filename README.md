@@ -1,4 +1,4 @@
-# TODO App 
+# TODO App
 
 A Flutter mobile application for managing tasks with full **CRUD** operations
 
